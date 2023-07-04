@@ -1,2 +1,3 @@
 - belajar github
+  * belajar git
 - belajar laravel 10
