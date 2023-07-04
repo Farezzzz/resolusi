@@ -1,5 +1,6 @@
 - belajar github
   * belajar git
 - belajar laravel 10
+- belajar memahami masa depan
 - belajar javascript
-  * belajar angular
+  * belajar react
